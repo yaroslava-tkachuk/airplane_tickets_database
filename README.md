@@ -24,6 +24,6 @@ Some of the main database functionalities:
 - restricts using a plane already serving a flight for another flight until it's busy
 - restricts maximum number of tickets sold per flight (depends on the plane capacity)
 
-Warning: another non-optimal thing is the cascade records deletion: it does  contribute to the database structure integrity, but kills plenty of data as well :(
+Warning: another non-optimal thing is the cascade records deletion: it does  contribute to the database structure integrity, but kills plenty of data as well :'(
 
 If You want to have some fun, You can play around with the example and testing files, and maybe try to use Your own evil ideas to crash the database (hopefully it won't happen). Enjoy!
