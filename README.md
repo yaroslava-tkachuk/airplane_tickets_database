@@ -9,10 +9,10 @@ Here You can see a diagram, demonstrating the database structure:
 ![Alt text](./airplane_tickets_db_diagram.png?raw=true "Airpline Tickets Database Diagram")
 
 Files:
-airplane_tickets_db.ddl - main database file
-airplane_tickets_db_diagram.png - database diagram
-airplane_tickets_db_examples.ddl - some examples to feed into database for testing
-airplane_tickets_db_test.ddl - few weird complicated queries to show how fancy the database is: of course, normally databases are constructed in a way that there is no need to use such long, slow, and generally non-optimal queries - again learning purposes :)
+- airplane_tickets_db.ddl - main database file
+- airplane_tickets_db_diagram.png - database diagram
+- airplane_tickets_db_examples.ddl - some examples to feed into database for testing
+- airplane_tickets_db_test.ddl - few weird complicated queries to show how fancy the database is: of course, normally databases are constructed in a way that there is no need to use such long, slow, and generally non-optimal queries - again learning purposes :)
 
 Software used:
 - Oracle SQL Developer 19.2.1.247
